@@ -49,8 +49,8 @@ The Logistic Regression model achieved an accuracy score of approximately 0.785.
 
          precision    recall  f1-score   support  
 
-   0       0.80        0.85        0.82          110  
-   1       0.74      0.65      0.69        69  
+       0     0.80      0.85      0.82        110  
+       1     0.74      0.65      0.69        69  
 
 accuracy 0.7765
 
