@@ -5,18 +5,18 @@ This project involves analyzing the Titanic dataset to predict survival outcomes
 
 The dataset used includes the following columns:
 
-  • PassengerId: Unique ID for each passenger
-  • Survived: Survival status (0 = No, 1 = Yes)
-  • Pclass: Passenger class (1, 2, 3)
-  • Name: Name of the passenger
-  • Sex: Gender of the passenger
-  • Age: Age of the passenger
-  • SibSp: Number of siblings or spouses aboard
-  • Parch: Number of parents or children aboard
-  • Ticket: Ticket number
-  • Fare: Fare paid for the ticket
-  • Cabin: Cabin number
-  • Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+  • PassengerId: Unique ID for each passenger  
+  • Survived: Survival status (0 = No, 1 = Yes)  
+  • Pclass: Passenger class (1, 2, 3)  
+  • Name: Name of the passenger  
+  • Sex: Gender of the passenger  
+  • Age: Age of the passenger  
+  • SibSp: Number of siblings or spouses aboard  
+  • Parch: Number of parents or children aboard  
+  • Ticket: Ticket number  
+  • Fare: Fare paid for the ticket  
+  • Cabin: Cabin number  
+  • Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)  
 
 **Analysis and Data Wrangling**
 
