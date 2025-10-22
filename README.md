@@ -1,4 +1,4 @@
-# Titanic_Survival_Predication
+# Titanic Survival Prediction
 This project involves analyzing the Titanic dataset to predict survival outcomes by training a Logistic Regression model, evaluating its performance using accuracy and confusion matrix, and visualizing results.
 
 **Dataset**
